@@ -8,4 +8,5 @@ package com.bit;
  **/
 public class Persent {
     private String name;
+    private String sex;
 }
